@@ -1,0 +1,24 @@
+# Sorting Game is an Android app where players drag and drop falling garbage into the correct recycling bins to score points and learn about waste sorting.
+# Features 
+> Drag-and-drop gameplay to sort falling garbage items to three recycling bins: Plastic, Paper, and Glass
+> Score increases by 10 points for each correctly sorted item
+> Three lives; losing lives for missed or wrong sorting
+> Increasing difficulty with faster falling items and shorter spawn delays
+> Motivational popups with educational tips every 100 points
+> Pause and resume game functionality
+> High score saving and tracking
+> Colorful and intuitive user interface suitable for all ages
+> Real-time score and lives display
+> Simple and engaging gameplay to promote recycling awareness
+
+## Screenshots
+Main window
+![image](https://github.com/user-attachments/assets/319c45cd-52c4-4cf0-878d-a758b194852c)
+
+
+Game activity window
+![image](https://github.com/user-attachments/assets/90d3b13d-c50f-47b2-8908-2d07603cc06c)
+
+
+Informative popups
+![image](https://github.com/user-attachments/assets/6d176b79-3bde-40ef-8b44-33902c9d7b70)
