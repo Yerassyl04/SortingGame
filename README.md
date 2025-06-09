@@ -16,18 +16,18 @@
 ----
 ## Screenshots                                                           
 Main window                                                             
-![image](https://github.com/user-attachments/assets/319c45cd-52c4-4cf0-878d-a758b194852c)
+
 
 
 
 
 
 Game activity window                      
-![image](https://github.com/user-attachments/assets/90d3b13d-c50f-47b2-8908-2d07603cc06c)
+
 
 
 
 
 
 Informative popups                            
-![image](https://github.com/user-attachments/assets/6d176b79-3bde-40ef-8b44-33902c9d7b70)
+
