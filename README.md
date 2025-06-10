@@ -18,6 +18,7 @@
 ## Screenshots                                                           
 Main window                                                             
 
+![image](https://github.com/user-attachments/assets/867c632e-45e6-4956-82e9-f8df926380db)
 
 
 
@@ -26,9 +27,20 @@ Main window
 Game activity window                      
 
 
+![image](https://github.com/user-attachments/assets/c20eafd6-5678-4aea-a805-fa9742b08882)
 
 
 
 
 Informative popups                            
+
+![image](https://github.com/user-attachments/assets/a4a09832-e85f-4e96-854c-e5cd0ad679a4)
+
+
+
+
+
+Game Information Page
+
+![image](https://github.com/user-attachments/assets/8bf1c34e-1baa-48cb-a982-da5ad908c0f8)
 
