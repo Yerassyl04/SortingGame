@@ -1,4 +1,4 @@
-# Sorting Game is an Android app where players drag and drop falling garbage into the correct recycling bins to score points and learn about waste sorting.
+# Sorting Game "ECO HERO" is an Android app where players drag and drop falling garbage into the correct recycling bins to score points and learn about waste sorting.
 ## Features 
 - Drag-and-drop gameplay to sort falling garbage items to three recycling bins. Plastic, Paper, and Glass
 - Score increases by 10 points for each correctly sorted item
